@@ -22,3 +22,7 @@ dist/
 *.tmp
 *.cache
 *.dep.inc
+
+# System
+Thumbs.db
+.DS_Store
