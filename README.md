@@ -45,5 +45,6 @@ Luego de la ejecución, el programa emite un mensaje final con el número de sol
 | Límite alcanzado  | Se llegó al límite de soluciones habilitadas. |
 
 ---
+
 ## 🛠️ Recursos
-- 🖥️ **NetBeans** — IDE utilizado para escribir y compilar el proyecto en C++.
+- 🖥️ **NetBeans** `21` — IDE utilizado para escribir y compilar el proyecto en C++.
